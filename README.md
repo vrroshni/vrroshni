@@ -1,5 +1,8 @@
 [![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Roshni V R</h1>
+<h1 align="center"><b>Hi , I'm Roshni V R </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=A Passionate Python Developer..&hearts;++;Self-taught+Full-Stack+Developer,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
 <h3 align="center">A highly motivated and passionate Python Full Stack Developer, I possess a strong foundation in the language and am constantly seeking to improve and expand my skills. I am fully capable of taking on any project and am eager to contribute to the development community on GitHub. As a self-taught developer with a passion for programming languages and exploring technological advances, I have honed my skills in effective communication and attention to detail. I am now seeking a challenging position in a reputable organization where I can further develop my abilities and make significant contributions to the field of software development.</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vrroshni&label=Profile%20views&color=0e75b6&style=flat" alt="vrroshni" /> </p>
